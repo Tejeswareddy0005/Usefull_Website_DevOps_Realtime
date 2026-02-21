@@ -1,0 +1,68 @@
+HTTP Error Codes Status Explained || Quick Reference for DevOps.
+
+2xx Success
+
+200 OK
+Request was successful and the server returned the expected response.
+
+201 Created
+A new resource was successfully created on the server. 
+
+204 No Content 
+Request succeeded, but there is no data to return.
+
+3xx Redirection
+
+301 Moved Permanently 
+The resource has been permanently moved to a new URL.
+
+302- Found (Temporary Redirect) 
+The resource is temporarily available at a different location.
+
+304 Not Modified
+The resource hasn't changed since the last request (used for caching )
+
+307 Temporary Redirect 
+Temporary redirect, but the request method must not change.
+
+4xx - Client Errors 
+
+400- Bad Request 
+The server cannot process the request due to invalid syntax. 
+
+401 Unauthorized 
+Authentication is required or has failed. 
+
+403 Forbidden
+ You are authenticated, but you don't have permission. 
+
+404 Not Found 
+The requested resource does not exist. 
+
+405 Method Not Allowed
+ The HTTP method is not supported for this endpoint. 
+
+408 Request Timeout 
+The client took too long to send the request. 
+
+429 Too Many Requests
+ You have sent too many requests in a short time (rate limiting).
+
+5xx Server Errors 
+
+500- Internal Server Error
+ The server encountered an unexpected condition.
+
+ 502 Bad Gateway
+ The server received an invalid response from an upstream server.
+
+503 Service Unavailable
+ The server is currently unavailable (overloaded or down). 
+
+504 Gateway Timeout 
+The upstream server failed to respond in time. 
+
+505 HTTP Version Not Supported 
+The server does not support the HTTP protocol version used.
+
+
