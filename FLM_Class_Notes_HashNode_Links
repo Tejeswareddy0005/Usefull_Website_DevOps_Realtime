@@ -53,7 +53,6 @@ Docker Compose class-11 Part -2 :
 
 https://docker77.hashnode.dev/scaling-in-docker-compose-with-hands-on-examples
 
-
 Docker Swarm:
 https://docker77.hashnode.dev/mastering-docker-swarm-a-devops-engineers-experience
 
@@ -62,4 +61,14 @@ https://docker77.hashnode.dev/docker-stack-simplifying-multi-container-applicati
 
 Docker Trivy:
 https://docker77.hashnode.dev/trivy-with-docker-secure-your-container-images
+
+
+Kubernetes:
+
+Kubernetes Architecture:
+https://mustafa-k8s.hashnode.dev/well-explained-kubernetes-architecture
+
+class notes-1 : https://mustafa-k8s.hashnode.dev/essential-kubernetes-pod-concepts-for-beginners-to-master
+class notes-2 : https://mustafa-k8s.hashnode.dev/labels-selectors-and-node-selectors
+
 
