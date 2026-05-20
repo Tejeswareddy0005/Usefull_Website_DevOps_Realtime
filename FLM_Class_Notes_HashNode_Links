@@ -72,6 +72,9 @@ class notes-1 : https://mustafa-k8s.hashnode.dev/essential-kubernetes-pod-conce
 class notes-2 : https://mustafa-k8s.hashnode.dev/labels-selectors-and-node-selectors
 
 Config Maps & Secrets:
-https://mustafa-k8s.hashnode.dev/configmaps-vs-secrets-the-silent-heroes-of-kubernetes-configurations
+ https://mustafa-k8s.hashnode.dev/configmaps-vs-secrets-the-silent-heroes-of-kubernetes-configurations
+
+RBAC:
+ https://mustafa-k8s.hashnode.dev/understanding-rbac-a-pillar-of-kubernetes-security
 
 
